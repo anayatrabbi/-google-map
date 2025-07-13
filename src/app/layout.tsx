@@ -23,8 +23,6 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const API_KEY = "AIzaSyCbxwEdUEEJ-W7fEHkPf1TDs9VrRGKOIIs";
-
   return (
     <html lang="en">
       <body
